@@ -4,7 +4,8 @@
 <div>
 <a href="https://beacons.ai/GBLZIN">
 <a href="https://github.com/GBLZIN">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=radical&include_all_commits-true&count_private-true"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=radical&include_all_commits-true&count_private-true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=radical"/>
 </div>
 
 ## Tecnologias que utilizo no meu dia
