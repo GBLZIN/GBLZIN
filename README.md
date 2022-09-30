@@ -1,5 +1,5 @@
 ### Olá, eu sou o Gabriel ;)
-- Estudante de front-end e back-end
+- Front-end and back-end student
 
 <div>
 <a href="https://beacons.ai/GBLZIN">
