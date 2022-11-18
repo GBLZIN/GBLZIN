@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel ;)
 - Front-end and back-end student
 
-<div>
+
 ## Github Stats
 <div class="flex-container" style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&count_private=true&hide_border=true" style="flex: 1; margin-right: 20px; width: 45%;" />  
