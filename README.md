@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://beacons.ai/GBLZIN">
-# Github Stats
+Github Stats
 <div class="flex-container" style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&count_private=true&hide_border=true" style="flex: 1; margin-right: 20px; width: 45%;" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&hide_border=true&layout=compact" width="45%" />  
