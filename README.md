@@ -1,15 +1,9 @@
 ### Olá, eu sou o Gabriel ;)
 - Front-end and back-end student
 
-
+<!-- GithubStats -->
 ## Github Stats
-<div class="flex-container" style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&count_private=true&hide_border=true" style="flex: 1; margin-right: 20px; width: 45%;" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&hide_border=true&layout=compact" width="45%" />  
-</div>
-<br/>
-<a href="https://github.com/GBLZIN">
-</div>
+![GBLZIN GitHub stats](https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=gotham)
 
 ## Tecnologias que utilizo no meu dia
 
@@ -22,7 +16,5 @@
 </div>
 
 ## Minhas redes sociais
-
-<!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gblzin.rodrigues/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-49437a252/)
