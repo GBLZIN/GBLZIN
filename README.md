@@ -4,7 +4,7 @@
 <!-- GithubStats -->
 ## Github Stats
 ![GBLZIN GitHub stats](https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=gotham) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&hide_border=true&layout=compact" width="99%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&hide_border=true&layout=compact" width="45%" />  
 
 ## Tecnologias que utilizo no meu dia
 <div style="display: inline_block">
