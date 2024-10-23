@@ -18,3 +18,5 @@
 ## My social networks
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gblzin.rodrigues/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-49437a252/)
+
+![Snake animation](https://github.com/zMarcoos/zMarcoos/blob/output/github-contribution-grid-snake.svg)
