@@ -1,5 +1,5 @@
 ### 👨‍🎓 Hello, I'm Gabriel ;)
-I am an 18-year-old who is currently studying Java and Kotlin for a future career as a Back-End Developer.
+I am 18 years old who is currently studying Java and Kotlin for a future career as a Back-End Developer.
 On my GitHub, you will find some of my projects developed in languages I master and/or am currently studying.
 ## My Stats
 ![GBLZIN GitHub stats](https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=tokyonight)
