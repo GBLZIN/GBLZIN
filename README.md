@@ -2,8 +2,18 @@
 I am 18 years old who is currently studying Java and Kotlin for a future career as a Back-End Developer.
 On my GitHub, you will find some of my projects developed in languages I master and/or am currently studying.
 ## My Stats
-![GBLZIN GitHub stats](https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=tokyonight" alt="GBLZIN GitHub stats" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&theme=tokyonight" alt="Top Langs" height="200" />
+    </td>
+  </tr>
+</table>
+
 ## Technologies I use in my daily work
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
