@@ -20,7 +20,7 @@ On my GitHub, you can check out some of the projects I'm working on, where I sha
 | --- | --- | --- |
 
 
-### ⚙ Database
+### ⚙ Databases
 | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | --- | --- | --- | --- |
 
