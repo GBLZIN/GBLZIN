@@ -8,7 +8,7 @@ I’m 18, learning Android development with Kotlin and Java to build apps. My go
       <img src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=tokyonight" alt="GBLZIN GitHub stats" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&theme=tokyonight" alt="Top Langs" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&hide_progress=true)" />
     </td>
   </tr>
 </table>
