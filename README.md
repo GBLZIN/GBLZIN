@@ -1,5 +1,5 @@
 ### 👨‍🎓 Hello, I'm Gabriel ;)
-I’m 18, learning Android development with Kotlin and Java to build apps. My goal is to be a Full Stack Android Developer, working on mobile and backend for complete solutions.
+I’m 19, learning Android development with Kotlin and Java to build apps. My goal is to be a Full Stack Android Developer, working on mobile and backend for complete solutions.
 
 ### 📊 My Stats in GitHub
 <table>
