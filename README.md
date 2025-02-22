@@ -5,10 +5,10 @@ I’m 19, learning Android development with Kotlin to build apps. My goal is to 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=dark" alt="GBLZIN GitHub stats" height="220"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=GBLZIN&show_icons=true&theme=tokyonight" alt="GBLZIN GitHub stats" height="220"/>
     </td>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&theme=dark" height="220"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLZIN&theme=tokyonight" height="220"/>
     </td>
   </tr>
 </table>
